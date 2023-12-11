@@ -1,0 +1,8 @@
+/home/ayadh/cpp/croot/build/CMakeFiles/edit_cache.dir
+/home/ayadh/cpp/croot/build/CMakeFiles/rebuild_cache.dir
+/home/ayadh/cpp/croot/build/csrc/CMakeFiles/dones.dir
+/home/ayadh/cpp/croot/build/csrc/CMakeFiles/edit_cache.dir
+/home/ayadh/cpp/croot/build/csrc/CMakeFiles/rebuild_cache.dir
+/home/ayadh/cpp/croot/build/clib/CMakeFiles/adds.dir
+/home/ayadh/cpp/croot/build/clib/CMakeFiles/edit_cache.dir
+/home/ayadh/cpp/croot/build/clib/CMakeFiles/rebuild_cache.dir
