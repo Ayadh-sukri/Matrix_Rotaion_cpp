@@ -1,2 +1,0 @@
-/usr/bin/ar qc libadds.a CMakeFiles/adds.dir/90_rotate.cpp.o CMakeFiles/adds.dir/180_rotate.cpp.o CMakeFiles/adds.dir/add.cpp.o
-/usr/bin/ranlib libadds.a

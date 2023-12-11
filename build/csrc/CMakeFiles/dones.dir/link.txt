@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/dones.dir/main.cpp.o -o dones  ../clib/libadds.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
